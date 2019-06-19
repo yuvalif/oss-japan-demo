@@ -6,7 +6,7 @@
 - install dependencies:
 $ npm install
 
-- update missing values in 's3cfg' configuration file
+- update missing values in 's3cfg' configuration file from RGW: host_base, host_bucket, access_key, secret_key
 
 - run the server:
 $ node --inspect http_demo_server.js
